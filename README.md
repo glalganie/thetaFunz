@@ -16,3 +16,5 @@ python theta.py
 ```
 
 L'immagine `radient_descent_plot.png` può essere visualizzata per comprendere meglio l'output o il comportamento dello script.
+
+<img width="640" height="480" alt="radient_descent_plot" src="https://github.com/user-attachments/assets/8340d41d-de2d-49b2-ab8d-657a4fafc74b" />
